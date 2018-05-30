@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#c62828</item>
+        <item name="colorPrimaryDark">#b71c1c</item>
+        <item name="colorAccent">#fff176</item>
+    </style>
+
+    <!-- attractions heme -->
+    <style name="attractions" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textAlignment" tools:targetApi="jelly_bean_mr1">center</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+
+    <!-- sub_categories_item theme -->
+    <style name="sub" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="android:background">@null</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textAlignment" tools:targetApi="jelly_bean_mr1">center</item>
+    </style>
+
+</resources>

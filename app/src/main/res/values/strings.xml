@@ -1,0 +1,146 @@
+<resources>
+
+    <!-- For main activity -->
+    <string name="app_name">Poland</string>
+    <string name="bialystok">Białystok</string>
+    <string name="gdansk">Gdańsk</string>
+    <string name="opole">Opole</string>
+    <string name="krk">Kraków</string>
+    <string name="lublin">Lublin</string>
+    <string name="poznan">Poznań</string>
+    <string name="torun">Toruń</string>
+    <string name="wawa">Warszawa</string>
+    <string name="wro">Wrocław</string>
+
+    <!-- For CategoryFragmentAdapter -->
+    <string name="cities">Main Cities</string>
+    <string name="wts">What to see?</string>
+    <string name="wtd">What to do?</string>
+    <string name="wtr">Where to rest?</string>
+
+    <!--For citiesFragment -->
+    <!-- city Białystok -->
+    <string name="bial1">Baranicki’s Palace</string>
+    <string name="bial2">Saint. Mikołaja Cudotwórcy Council</string>
+    <string name="bial3">Lubomirski’s Palace</string>
+    <string name="bial4">Hasbach Palace</string>
+    <!-- city Gdańsk -->
+    <string name="gd1">Bazylika Mariacka</string>
+    <string name="gd2">The Gdańsk Museum - Wisłoujście Fortress</string>
+    <string name="gd3">St. John’s Center - Lookout Tower</string>
+    <string name="gd4">Archaeological Museum in Gdańsk - House of Naturalists</string>
+    <!-- city Opole -->
+    <string name="op2">Cathedral Basilica in Opole</string>
+    <string name="op3">Museum of the Opole Village</string>
+    <string name="op4">Piastowska Tower</string>
+    <string name="op5">Tower of the Upper Castle</string>
+    <!-- city Kraków -->
+    <string name="krk1">Wawel Royal Castle</string>
+    <string name="krk2">St. Mary’s Basilica</string>
+    <string name="krk3">Cloth Hall</string>
+    <string name="krk4">Apostle of the North</string>
+    <!-- city Lublin -->
+    <string name="lb1">Lublin Castle</string>
+    <string name="lb2">Old Town</string>
+    <string name="lb3">Church of St. John the Baptist and Saint. John the Evangelist</string>
+    <string name="lb4">Castle Tower - Donżon</string>
+    <!-- city Poznań -->
+    <string name="pz1">City Hall</string>
+    <string name="pz2">Imperial Castle</string>
+    <string name="pz3">Fara Church</string>
+    <string name="pz4">Merchants’ Houses</string>
+    <!-- city Toruń -->
+    <string name="t1">Old Town Hall</string>
+    <string name="t2">House of Nicolaus Copernicus</string>
+    <string name="t3">Leaning Tower</string>
+    <string name="t4">Cathedral of St. John the Baptist and St. John the Evangelist</string>
+    <!-- city Warszawa -->
+    <string name="ww1">Palace of Culture and Science</string>
+    <string name="ww2">Museum of the King’s Jan III Palace in Wilanów</string>
+    <string name="ww3">Boulevards on the Vistula</string>
+    <string name="ww4">The Fryderyk Chopin Museum</string>
+    <!-- city Wrocław -->
+    <string name="wr1">National Museum</string>
+    <string name="wr3">Hydropolis</string>
+    <string name="wr4">Centennial Hall</string>
+
+    <!-- For wtsFragment -->
+    <string name="unesco">Unesco Heritage</string>
+    <string name="zip">Castles and Palaces</string>
+    <string name="mis">Museums and Open-Air Museums</string>
+    <string name="pn">National Parks</string>
+    <!-- attractions for Unesco -->
+    <string name="kopalnia">Lead, Silver and Zinc Mine in Tarnowskie Góry</string>
+    <string name="cerkwie">Wooden Orthodox Churches In The Polish And Ukrainian Carpathian Region</string>
+    <string name="park">Mużakowski Park</string>
+    <string name="starawawa">Old Town in Warsaw</string>
+    <string name="kompleks">Medieval Town Complex of Toruń</string>
+    <string name="malbork">Teutonic Castle in Malbork</string>
+    <!-- attractions for Castles and Palaces -->
+    <string name="pal1">Palace of Marianna Orańska in Kamieniec Ząbkowicki</string>
+    <string name="pal2">Ruins of the Teutonic Castle in Świeciu</string>
+    <string name="pal3">The Ducal Palace of Lobkowitz in Żagań</string>
+    <string name="pal4">The Castle of the Archbishops of Gniezno in Uniejów</string>
+    <!-- attractions for Museums and Open-Air Museums -->
+    <string name="m1">Museum of Soaps and History of Dirt</string>
+    <string name="m2">European Solidarity Center</string>
+    <string name="m3">Museum of Polish Song in Opole</string>
+    <string name="m4">Ethnographic Park in Tokarnia</string>
+    <!-- attractions for National Parks -->
+    <string name="n1">Słowiński National Park</string>
+    <string name="n2">Karkonosze National Park</string>
+    <string name="n3">Stołowe Mountains National Park</string>
+    <string name="n4">Drawa National Park</string>
+
+    <!-- For wtdFragment -->
+    <string name="pise">Adventure and Extreme Sports</string>
+    <string name="nw">On the Water</string>
+    <string name="z">In the Winter</string>
+    <string name="siw">SPA and Wellness</string>
+    <!-- attractions for Adventure and Extreme Sports -->
+    <string name="a1">Castles of Podole 4x4</string>
+    <string name="a2">Unceasing Rally</string>
+    <string name="a3">The Janów Podlaski Stud</string>
+    <string name="a4">Biebrza Wetlands</string>
+    <!-- attractions On the Water -->
+    <string name="w1">WakePark Szczecinek</string>
+    <string name="w2">The Great Waterway Loop of Wielkopolska</string>
+    <string name="w3">Zachodniopomorskie Sailing Route</string>
+    <string name="w4">Kitesurfing on Hell</string>
+    <!-- attractions in the Winter -->
+    <string name="win1">Ski Termal Complex in Białka Tatrzańska</string>
+    <string name="win2">Piatsów Race</string>
+    <string name="win3">Zieleniec Ski Arena</string>
+    <string name="win4">Ski and Sun Świeradów Zdrój</string>
+    <!-- attractions for SPA and Wellnes -->
+    <string name="s1">The Warmia thermal baths in Lidzbark Warmiński</string>
+    <string name="s2">Uniejów Thermal Spa</string>
+    <string name="s3">Maltańskie Therms</string>
+    <string name="s4">Cieplice thermal baths in Cieplice Zdrój</string>
+
+    <!-- For wtrFragment -->
+    <string name="is">In SPA</string>
+    <string name="naw">In the Countryside</string>
+    <string name="nawo">Over the Water</string>
+    <string name="wg">In the Mountains</string>
+    <!-- attractions in SPA -->
+    <string name="u1">Underground Wieliczka SPA</string>
+    <string name="u2">The Seaside Resort of Świnoujście</string>
+    <string name="u3">Szczawno-Zdrój</string>
+    <string name="u4">Kołobrzeg</string>
+    <!-- attractions in the Countryside -->
+    <string name="naw1">Agrotourism</string>
+    <string name="naw2">Tourist Routes</string>
+    <string name="naw3">Fishing Trip</string>
+    <!-- attractions Over the Water -->
+    <string name="nawo1">Warmia i Mazury</string>
+    <string name="nawo2">Drawsko Lakeland</string>
+    <string name="nawo3">Sobieszewska Island</string>
+    <string name="nawo4">Świnoujście</string>
+    <!-- attractions in the Mountains -->
+    <string name="wg1">Bukowina and Białka - Tatry</string>
+    <string name="wg2">Around Bystrzyca Kłodzka</string>
+    <string name="wg3">Bieszczady</string>
+    <string name="wg4">St. Anne Mountain</string>
+
+</resources>
